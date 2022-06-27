@@ -1,0 +1,24 @@
+.input_container{
+    font-family:Courier, monospace;
+    display: flex;
+    height:400px;
+    margin-top:344px;
+    border-style: dotted;
+
+}
+
+input{
+    margin-Bottom:21px;
+    width:360px;
+    height:25px;
+   border-radius: 5px;
+  border-color: rgb(241, 241, 241);
+  
+  }
+
+  .title h1 {
+    color: #3a3a3a;
+    text-align: center;
+    margin: 30px 0;
+    font-family: "Poppins", sans-serif;
+  }
